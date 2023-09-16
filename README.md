@@ -25,7 +25,8 @@ Thank you for watching me !
 
 ### Problem Solving 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wnsah814)](https://solved.ac/wnsah814)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wnsah814)](https://solved.ac/profile/wnsah814)
+
 
 ### My Languages
 
