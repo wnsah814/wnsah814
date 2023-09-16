@@ -16,8 +16,8 @@ Thank you for watching me !
 -   College Student @ [Hanyang University](http://cs.hanyang.ac.kr/)
 -   Research Intern @ [Software Platform Lab](http://splab.hanyang.ac.kr/)
 
-<div class="content">
-<div>
+<div style='display:flex; flex-wrap:wrap'>
+<div style="margin-right:1rem;'>
 
 ### Problem Solving 
 
@@ -32,14 +32,3 @@ Thank you for watching me !
 
 </div>
 </div>
-
-<style>
-.content {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.content div {
-    margin-right: 1rem;
-}
-</style>
