@@ -20,7 +20,7 @@ Thank you for watching me !
 ### About Me 👨‍💻
 
 -   College Student @ [Hanyang University](http://cs.hanyang.ac.kr/)
--   Trying to major in System Software Development
+-   Research Intern @ [SPLab](http://splab.hanyang.ac.kr/)
 -   Learning the Web Frontend as a hobby
 
 ### Problem Solving 
