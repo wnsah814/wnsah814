@@ -15,7 +15,7 @@ I am currently completing my Bachelor's degree in Computer Science at Hanyang Un
     * Storage Systems (SSD)
 
 ## Publications
-* PIM 아키텍처를 활용한 DBSCAN 알고리즘 성능 분석 (KSC 2024)
+* 성준모, 허건, 한혁, 강수용. (2024.12.). "[PIM 아키텍처를 활용한 DBSCAN 알고리즘 성능 분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12042230)". 한국정보과학회 학술발표논문집
 
 ## Education
 * M.S. in Computer Science (2025.03 - Present)
