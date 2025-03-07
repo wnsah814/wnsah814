@@ -4,10 +4,10 @@ Thank you for watching me!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsah814&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## About Me 👨‍💻
-I am currently completing my Bachelor's degree in Computer Science at Hanyang University, where I will also be starting my Master's program in March 2025. Since September 2023, I have been working as a Research Intern at the [Software Platform Lab](https://splab.hanyang.ac.kr), focusing on high-performance computing and storage systems (SSD).
+I am currently pursuing my Master's degree in Computer Science at Hanyang University, which I began in March 2025 after completing my Bachelor's degree at the same institution. Since September 2023, I have been working as a Research Intern at the Software Platform Lab, where I continue my research as a graduate student. My work focuses on high-performance computing and storage systems, particularly SSD technology.
 
 ## Experience
-* Research Intern @ Software Platform Lab, Hanyang University
+* Research Intern @ [Software Platform Lab](https://splab.hanyang.ac.kr), Hanyang University
   * Period: 2023.09 - 2025.02
   * Research Focus:
     * Multi-core Programming and Parallel Computing
