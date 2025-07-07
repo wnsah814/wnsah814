@@ -12,7 +12,7 @@ I am currently pursuing my Master's degree in Computer Science at Hanyang Univer
   * Course: Operating Systems
   * Key Contributions:
     * Migrated xv6 teaching materials from x86 to RISC-V architecture (aligned with MIT's current version)
-    * Deveoped new course materials and updated curriculum content
+    * Developed new course materials and updated curriculum content
     * Created comprehensive programming assignments including MLFQ scheduler, kernel-level thread, copy-on-write, and filesystem implementations
     
 * Research Intern @ [Software Platform Lab](https://splab.hanyang.ac.kr), Hanyang University
