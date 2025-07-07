@@ -7,6 +7,14 @@ Thank you for watching me!
 I am currently pursuing my Master's degree in Computer Science at Hanyang University, which I began in March 2025 after completing my Bachelor's degree at the same institution. Since September 2023, I have been working as a Research Intern at the Software Platform Lab, where I continue my research as a graduate student. My work focuses on high-performance computing and storage systems, particularly SSD technology.
 
 ## Experience
+* Teaching Assistant @ Hanyang University
+  * Period: 2025.03 - 2025.06 (Spring Semester)
+  * Course: Operating Systems
+  * Key Contributions:
+    * Migrated xv6 teaching materials from x86 to RISC-V architecture (aligned with MIT's current version)
+    * Deveoped new course materials and updated curriculum content
+    * Created comprehensive programming assignments including MLFQ scheduler, kernel-level thread, copy-on-write, and filesystem implementations
+    
 * Research Intern @ [Software Platform Lab](https://splab.hanyang.ac.kr), Hanyang University
   * Period: 2023.09 - 2025.02
   * Research Focus:
