@@ -22,6 +22,9 @@ I am currently pursuing my Master's degree in Computer Science at Hanyang Univer
     * Processing-in-Memory (PIM) Architecture
     * Storage Systems (SSD)
 
+## Open Source Contributions
+- FEMU - Flash-based NVMe SSD Emulator ([#174](https://github.com/MoatLab/FEMU/pull/174),[#172](https://github.com/MoatLab/FEMU/pull/172),[#164](https://github.com/MoatLab/FEMU/pull/164))
+
 ## Publications
 * 성준모, 허건, 한혁, 강수용. (2024.12.). "[PIM 아키텍처를 활용한 DBSCAN 알고리즘 성능 분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12042230)". 한국정보과학회 학술발표논문집
 
