@@ -26,6 +26,9 @@ I am currently pursuing my Master's degree in Computer Science at Hanyang Univer
 - FEMU - Flash-based NVMe SSD Emulator ([#178](https://github.com/MoatLab/FEMU/pull/178),[#174](https://github.com/MoatLab/FEMU/pull/174),[#172](https://github.com/MoatLab/FEMU/pull/172),[#164](https://github.com/MoatLab/FEMU/pull/164))
 
 ## Publications
+* Jinyoung Kim, Doeun Kim, **Junmo Seong**, Hyuck Han, Sooyong Kang. "Lifetime-Aware Zone Allocation for ZNS SSDs". IEEE International Conference on Fog and Edge Computing (ICFEC), 2026.
+* **Junmo Seong**, Doeun Kim, Hyuck Han, Sooyong Kang. "Practical Monitoring Tool for ZNS SSD Emulator". IEEE International Conference on Fog and Edge Computing (ICFEC), 2026.
+* **성준모**, 김도은, 한혁, 강수용. (2025.12.). "[FEMU 기반 스토리지 시스템의 디바이스 레벨 분석을 위한 실시간 모니터링 툴](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577793)". 한국정보과학회 학술발표논문집 🏆 **KSC2025 우수발표논문상**
 * 성준모, 허건, 한혁, 강수용. (2024.12.). "[PIM 아키텍처를 활용한 DBSCAN 알고리즘 성능 분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12042230)". 한국정보과학회 학술발표논문집
 
 ## Education
