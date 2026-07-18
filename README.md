@@ -8,7 +8,7 @@ I am currently pursuing my Master's degree in Computer Science at Hanyang Univer
 
 ## Experience
 * Teaching Assistant @ Hanyang University
-  * Period: 2025.03 - 2025.06 (Spring Semester)
+  * Period: 2025.03 - 2025.06, 2026.03 - 2026.06 (Spring Semesters)
   * Course: Operating Systems
   * Key Contributions:
     * Migrated xv6 teaching materials from x86 to RISC-V architecture (aligned with MIT's current version)
