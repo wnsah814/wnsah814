@@ -23,7 +23,7 @@ I am currently pursuing my Master's degree in Computer Science at Hanyang Univer
     * Storage Systems (SSD)
 
 ## Open Source Contributions
-- FEMU - Flash-based NVMe SSD Emulator ([#178](https://github.com/MoatLab/FEMU/pull/178),[#174](https://github.com/MoatLab/FEMU/pull/174),[#172](https://github.com/MoatLab/FEMU/pull/172),[#164](https://github.com/MoatLab/FEMU/pull/164))
+- FEMU - Flash-based NVMe SSD Emulator ([#178](https://github.com/MoatLab/FEMU/pull/178),[#174](https://github.com/MoatLab/FEMU/pull/174),[#172](https://github.com/MoatLab/FEMU/pull/172),[#163](https://github.com/MoatLab/FEMU/pull/163))
 
 ## Publications
 * Jinyoung Kim, Doeun Kim, **Junmo Seong**, Hyuck Han, Sooyong Kang. "Lifetime-Aware Zone Allocation for ZNS SSDs". IEEE International Conference on Fog and Edge Computing (ICFEC), 2026.
